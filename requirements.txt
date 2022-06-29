@@ -5,7 +5,6 @@ async-timeout==3.0.1
 attrs==21.4.0
 beautifulsoup4==4.11.1
 bs4==0.0.1
-cached-property @ file:///tmp/build/80754af9/cached-property_1600785575025/work
 certifi==2022.5.18.1
 chardet==4.0.0
 charset-normalizer==2.0.12

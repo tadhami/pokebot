@@ -45,7 +45,7 @@ six==1.16.0
 soupsieve==2.3.2.post1
 sqlparse==0.4.2
 tensorboard==2.0.0
-tensorflow==2.0.0
+tensorflow-cpu==2.0.0
 tensorflow-estimator==2.0.0
 termcolor==1.1.0
 tk==0.1.0
